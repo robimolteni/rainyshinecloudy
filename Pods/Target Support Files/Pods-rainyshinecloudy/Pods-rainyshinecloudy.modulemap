@@ -1,0 +1,6 @@
+framework module Pods_rainyshinecloudy {
+  umbrella header "Pods-rainyshinecloudy-umbrella.h"
+
+  export *
+  module * { export * }
+}
